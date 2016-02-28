@@ -55,3 +55,4 @@ Implement and test a `HashSet` class. Your HashSet should conform to the Set int
 - `HashSet#size`: Return the size of the set
 
 Make sure `#add`, `#remove`, `#contains`, and `#size` are constant time.
+# Data-structures-hash
